@@ -70,4 +70,4 @@ Các file dưới đây có trong gói làm việc hiện tại; cần kiểm tr
 - [x] `day1_lab_outputs/visuals/segmentation_prediction.png`
 - [x] Ô validation cuối notebook báo `PASS` 
 - [x] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output đã kiểm tra
-- [x] Đã nộp **link repository** trên LMS 
+- [x] Đã nộp **link repository** trên LMS .
